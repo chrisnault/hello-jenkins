@@ -1,0 +1,26 @@
+{
+  "name": "hello-jenkins",
+  "version": "1.0.0",
+  "description": "Sample app to test jenkins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisnault/hello-jenkins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisnault/hello-jenkins/issues"
+  },
+  "homepage": "https://github.com/chrisnault/hello-jenkins#readme",
+  "dependencies": {
+    "express": "^3.12.0"
+  },
+  "devDependencies": {
+    "mocha": "^1.20.1",
+    "supertest": "^0.13.0"
+  }
+}
